@@ -18,7 +18,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          Edit <code>src/App.jsx</code> and save to test HMR. Se realiza un cambio para validar.
         </p>
       </div>
       <p className="read-the-docs">
